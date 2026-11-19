@@ -1,6 +1,6 @@
 {
   "name": "OctoGlance",
-  "version": "v1.5",
+  "version": "v1.6",
   "new_install_prompt_erase": false,
   "new_install_improv_wait_time": 0,
   "builds": [
